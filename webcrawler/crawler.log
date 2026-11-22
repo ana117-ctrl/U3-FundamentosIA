@@ -1,0 +1,52 @@
+2026-11-07 19:31:33,850 [INFO] robots.txt cargado (crawl-delay=None)
+2026-11-07 19:31:35,396 [ERROR] Error inesperado en https://pelispop.mov/pelicula/barbie-in-the-nutcracker-DVgPW9: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-11-07 19:31:37,918 [ERROR] Error inesperado en https://pelispop.mov/peliculas: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-11-07 19:31:40,104 [WARNING] HTTP 404 en https://pelispop.mov/peliculas/animacion
+2026-11-07 19:31:40,105 [INFO] Cola agotada: usando sitemap.xml como respaldo
+2026-11-07 19:31:41,871 [INFO] Sitemap aportó 0 URLs de películas
+2026-11-07 19:31:41,873 [INFO] CSV guardado: peliculas.csv (0 filas)
+2026-11-07 19:31:41,873 [WARNING] Solo 0 registros (< 500). Revisa crawler.log; ver notas sobre paginación/JavaScript.
+2026-11-07 19:31:41,873 [INFO] Descartes: {'unexpected': 2, 'http_error': 1}
+2026-11-07 19:32:27,572 [INFO] robots.txt cargado (crawl-delay=None)
+2026-11-07 19:32:29,692 [ERROR] Error inesperado en https://pelispop.mov/pelicula/barbie-in-the-nutcracker-DVgPW9: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-11-07 19:32:32,100 [ERROR] Error inesperado en https://pelispop.mov/peliculas: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-11-07 19:32:34,171 [WARNING] HTTP 404 en https://pelispop.mov/peliculas/animacion
+2026-11-07 19:32:34,171 [INFO] Cola agotada: usando sitemap.xml como respaldo
+2026-11-07 19:32:35,604 [INFO] Sitemap aportó 0 URLs de películas
+2026-11-07 19:32:35,604 [INFO] CSV guardado: peliculas.csv (0 filas)
+2026-11-07 19:32:35,605 [WARNING] Solo 0 registros (< 500). Revisa crawler.log; ver notas sobre paginación/JavaScript.
+2026-11-07 19:32:35,605 [INFO] Descartes: {'unexpected': 2, 'http_error': 1}
+2026-11-07 19:35:37,715 [INFO] robots.txt cargado (crawl-delay=None)
+2026-11-07 19:36:15,113 [INFO] CSV guardado: peliculas.csv (10 filas)
+2026-11-07 19:36:15,113 [INFO] Descartes: {}
+2026-11-07 19:37:03,585 [INFO] robots.txt cargado (crawl-delay=None)
+2026-11-07 19:38:11,942 [INFO] Progreso: 25 películas (cola: 119)
+2026-11-07 19:39:52,282 [INFO] Progreso: 50 películas (cola: 277)
+2026-11-07 19:41:11,095 [INFO] Progreso: 75 películas (cola: 340)
+2026-11-07 19:42:27,689 [INFO] Progreso: 100 películas (cola: 412)
+2026-11-07 19:43:24,148 [INFO] Progreso: 125 películas (cola: 391)
+2026-11-07 19:44:35,844 [INFO] Progreso: 150 películas (cola: 429)
+2026-11-07 19:46:11,299 [INFO] Progreso: 175 películas (cola: 537)
+2026-11-07 19:47:13,190 [INFO] Progreso: 200 películas (cola: 512)
+2026-11-07 19:48:28,383 [INFO] Progreso: 225 películas (cola: 612)
+2026-11-07 19:49:55,063 [INFO] Progreso: 250 películas (cola: 686)
+2026-11-07 19:50:54,962 [INFO] Progreso: 275 películas (cola: 713)
+2026-11-07 19:52:02,538 [INFO] Progreso: 300 películas (cola: 709)
+2026-11-07 19:53:26,980 [INFO] Progreso: 325 películas (cola: 710)
+2026-11-07 19:54:32,101 [INFO] Progreso: 350 películas (cola: 712)
+2026-11-07 19:55:39,281 [INFO] Progreso: 375 películas (cola: 709)
+2026-11-07 19:56:54,123 [INFO] Progreso: 400 películas (cola: 730)
+2026-11-07 19:57:57,276 [INFO] Progreso: 425 películas (cola: 725)
+2026-11-07 19:59:13,380 [INFO] Progreso: 450 películas (cola: 764)
+2026-11-07 20:00:15,536 [INFO] Progreso: 475 películas (cola: 750)
+2026-11-07 20:01:28,435 [INFO] Progreso: 500 películas (cola: 749)
+2026-11-07 20:02:32,971 [INFO] Progreso: 525 películas (cola: 747)
+2026-11-07 20:03:35,053 [INFO] Progreso: 550 películas (cola: 746)
+2026-11-07 20:05:14,530 [INFO] Progreso: 575 películas (cola: 785)
+2026-11-07 20:06:26,344 [INFO] Progreso: 600 películas (cola: 824)
+2026-11-07 20:07:46,382 [INFO] Progreso: 625 películas (cola: 849)
+2026-11-07 20:08:50,159 [INFO] Progreso: 650 películas (cola: 841)
+2026-11-07 20:10:00,385 [INFO] Progreso: 675 películas (cola: 883)
+2026-11-07 20:11:01,554 [INFO] Progreso: 700 películas (cola: 875)
+2026-11-07 20:11:01,581 [INFO] CSV guardado: peliculas.csv (700 filas)
+2026-11-07 20:11:01,582 [INFO] Descartes: {'titulo_duplicado': 2}
